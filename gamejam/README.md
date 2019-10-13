@@ -1,5 +1,10 @@
 # Game Jam
 
-### Sample Project by Sample Name
+### Rocket Power by Joel Paik
 
-Sample Description
+Flyyyy me to the 
+green pad
+and let me 
+NOt run out of 
+Power
+fgamp
