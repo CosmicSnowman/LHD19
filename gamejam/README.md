@@ -1,5 +1,6 @@
 # Game Jam
 
-### Sample Project by Sample Name
+### Knob by Yasper De Jong
 
-Sample Description
+There's a knob. If you turn it the power stays on. And it works, 
+sometimes.
